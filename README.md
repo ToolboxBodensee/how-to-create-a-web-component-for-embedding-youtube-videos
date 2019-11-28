@@ -1,6 +1,8 @@
 ### Envato Tuts+ Tutorial: [How to Create a Web Component for Embedding YouTube Videos](http://webdesign.tutsplus.com/tutorials/how-to-create-a-web-component-for-embedding-youtube-videos--cms-26744)
 #### Instructor: Thoriq Firdaus
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/webseite/how-to-create-a-web-component-for-embedding-youtube-videos). Auf GitHub befindet sich lediglich ein Mirror**
+
 In the previous tutorial “How to “Lazy Load” Embedded YouTube Videos” we looked into how to load a Youtube video only when a user clicks it. This in turn helps our web page load a bit faster, especially if there it contains multiple Youtube videos.
 
 If you followed the tutorial thoroughly, you’ll have seen that we had to add a couple of div elements, along with the classes, the styles, and the scripts to get it working.
